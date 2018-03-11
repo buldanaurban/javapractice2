@@ -12,7 +12,7 @@ package com.Innerclass;
 
  public static void main(String[] args)
              {
-
-
+	 System.out.println("Hi Mahesh this is updated one");
+   
              }
 }
